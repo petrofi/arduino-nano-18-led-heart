@@ -1,0 +1,20 @@
+﻿LED,Nano pini,Direnç,Eksi uç
+LED1,D2,220 Ω,Ortak GND
+LED2,D3,220 Ω,Ortak GND
+LED3,D4,220 Ω,Ortak GND
+LED4,D5,220 Ω,Ortak GND
+LED5,D6,220 Ω,Ortak GND
+LED6,D7,220 Ω,Ortak GND
+LED7,D8,220 Ω,Ortak GND
+LED8,D9,220 Ω,Ortak GND
+LED9,D10,220 Ω,Ortak GND
+LED10,D11,220 Ω,Ortak GND
+LED11,D12,220 Ω,Ortak GND
+LED12,D13,220 Ω,Ortak GND
+LED13,A0,220 Ω,Ortak GND
+LED14,A1,220 Ω,Ortak GND
+LED15,A2,220 Ω,Ortak GND
+LED16,A3,220 Ω,Ortak GND
+LED17,A4,220 Ω,Ortak GND
+LED18,A5,220 Ω,Ortak GND
+Buton,A6,10 kΩ pull-up -> 5V,Buton -> GND

@@ -1,0 +1,9 @@
+﻿Parça,Adet,Not
+Arduino Nano V3 (ATmega328P),1,5V / 16 MHz
+5 mm LED,18,Aynı renk önerilir
+220 Ω 1/4W direnç,18,Her LED için ayrı
+10 kΩ 1/4W direnç,1,A6 buton pull-up
+Anlık buton,1,Tact switch olabilir
+Delikli plaket / perfboard,1,Yaklaşık 50x70 mm
+İnce izoleli bağlantı teli,1,Sinyal hatları
+USB veri kablosu,1,Nano programlama
